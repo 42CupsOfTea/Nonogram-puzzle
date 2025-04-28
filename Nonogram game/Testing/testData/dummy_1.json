@@ -1,0 +1,17 @@
+
+{
+  "name": "dummy_1",
+  "states": {
+    "UNKNOWN": "#ECECEC",
+    "EMPTY": "#FFFFFF",
+    "COLOUR_1": "#000000"
+  },
+  "rows": [
+    [],
+    []
+  ],
+  "columns": [
+    [],
+    []
+  ]
+}

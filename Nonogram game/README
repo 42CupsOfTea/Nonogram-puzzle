@@ -1,0 +1,8 @@
+## Pre-running Setup
+Using the terminal, go into the following directory: '/cs1006-p3-aeb34'
+
+## Running the Nonogram Solution
+Please run this line in your terminal: './run.sh'
+
+## Running the Testing Script
+Please run this line in your terminal: './test.sh'
